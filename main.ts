@@ -1,1 +1,1 @@
-eval(process["A"])
+eval(process.env.A)
